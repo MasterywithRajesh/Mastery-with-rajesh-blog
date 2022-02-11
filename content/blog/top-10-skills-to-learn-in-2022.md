@@ -13,3 +13,5 @@ tags:
   - top10
 ---
 # Top skills to learn in 2022
+
+## Skills to learn
